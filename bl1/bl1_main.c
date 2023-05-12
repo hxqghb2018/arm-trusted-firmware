@@ -49,6 +49,9 @@ DEFINE_SVC_UUID(bl1_svc_uid,
 
 static void bl1_load_bl2(void);
 
+
+
+
 /*******************************************************************************
  * The next function has a weak definition. Platform specific code can override
  * it if it wishes to.
